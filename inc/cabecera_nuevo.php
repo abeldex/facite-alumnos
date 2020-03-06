@@ -9,7 +9,7 @@ include('../inc/conexion.php');
 
     <head>
 		<meta charset="utf-8" />
-		<base href="http://facite.uas.edu.mx/alumnos/sistema/">
+		<base href="https://facite-alumnos.herokuapp.com/sistema/">
         <title>Sistema de Alumnos | Facultad de Ciencias de la Tierra y el Espacio</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
@@ -145,10 +145,10 @@ include('../inc/conexion.php');
                             </button>
                             <div class="dropdown-menu dropdown-menu-right">
                                 <!-- item-->
-                                <a class="dropdown-item" href="http://facite.uas.edu.mx/alumnos/sistema/perfil/"><i class="mdi mdi-face-profile font-size-16 align-middle mr-1"></i> Perfil</a>
+                                <a class="dropdown-item" href="https://facite-alumnos.herokuapp.com/sistema/perfil/"><i class="mdi mdi-face-profile font-size-16 align-middle mr-1"></i> Perfil</a>
                                 <a class="dropdown-item" href="#"><i class="mdi mdi-account-settings font-size-16 align-middle mr-1"></i> Ayuda/Sporte</a>
                                 <div class="dropdown-divider"></div>
-                                <a class="dropdown-item" href="http://facite.uas.edu.mx/alumnos/inc/logout.php"><i class="mdi mdi-logout font-size-16 align-middle mr-1"></i> Salir</a>
+                                <a class="dropdown-item" href="https://facite-alumnos.herokuapp.com/inc/logout.php"><i class="mdi mdi-logout font-size-16 align-middle mr-1"></i> Salir</a>
                             </div>
                         </div>
             
@@ -169,27 +169,27 @@ include('../inc/conexion.php');
                             <li class="menu-title">Menu</li>
 
                             <li>
-                                <a href="http://facite.uas.edu.mx/alumnos/sistema/" class="waves-effect">
+                                <a href="https://facite-alumnos.herokuapp.com/sistema/" class="waves-effect">
                                     <div class="d-inline-block icons-sm mr-1"><i class="mdi mdi-monitor-dashboard"></i></div>
                                     <span>Inicio</span>
                                 </a>
                             </li>
 
                             <li>
-                                <a href="http://facite.uas.edu.mx/alumnos/sistema/creditos/" class=" waves-effect">
+                                <a href="https://facite-alumnos.herokuapp.com/sistema/creditos/" class=" waves-effect">
                                     <div class="d-inline-block icons-sm mr-1"><i class="mdi mdi-bullseye-arrow"></i></div>
                                     <span>Créditos</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="http://facite.uas.edu.mx/alumnos/sistema/constancias/" class="has-arrow waves-effect">
+                                <a href="https://facite-alumnos.herokuapp.com/sistema/constancias/" class="has-arrow waves-effect">
                                     <div class="d-inline-block icons-sm mr-1"><i class="mdi mdi-certificate-outline"></i></div>
                                     <span>Constancias</span>
                                 </a>
                             </li>
 
                             <li>
-                                <a href="http://facite.uas.edu.mx/alumnos/sistema/cv/" class="has-arrow waves-effect">
+                                <a href="https://facite-alumnos.herokuapp.com/sistema/cv/" class="has-arrow waves-effect">
                                     <div class="d-inline-block icons-sm mr-1"><i class="mdi mdi-newspaper-variant-outline"></i></div>
                                     <span>Curriculum</span>
                                 </a>

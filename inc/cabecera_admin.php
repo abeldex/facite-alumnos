@@ -7,7 +7,7 @@ include('../../inc/conexion.php');
 <!doctype html>
 <html lang="eS">
 	<head>
-        <base href="http://facite.uas.edu.mx/alumnos/administrador/">
+        <base href="https://facite-alumnos.herokuapp.com/administrador/">
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -52,7 +52,7 @@ include('../../inc/conexion.php');
 		<div id="sidebar-bg" style="background-image: url(../images/pattern2.png);">
 			
       <header id="videohead-pro" class="sticky-header" style="background-color:#102938; color:#ffffff;">
-			<div id="video-logo-background"><a href="http://facite.uas.edu.mx/alumnos/administrador/"><img src="../images/logopeque.svg" alt="Logo"></a></div>
+			<div id="video-logo-background"><a href="https://facite-alumnos.herokuapp.com/administrador/"><img src="../images/logopeque.svg" alt="Logo"></a></div>
 			<div id="video-search-header">
 				<p style="font-size: 30px; font-weight:bold; margin-left:20px;">Sistema Integral de Alumnos | Administración</p>
 			</div>
@@ -68,7 +68,7 @@ include('../../inc/conexion.php');
 					<ul>
 						<li><a href="#"><span class="icon-User"></span>Perfil</a></li>
 						<li><a href="#!"><span class="icon-Life-Safer"></span>Ayuda/Soporte</a></li>
-						<li><a href="http://facite.uas.edu.mx/alumnos/inc/logout.php"><span class="icon-Power-3"></span>Salir</a></li>
+						<li><a href="https://facite-alumnos.herokuapp.com/inc/logout.php"><span class="icon-Power-3"></span>Salir</a></li>
 					</ul>
 				</div><!-- close #header-user-profile-menu -->
 			</div><!-- close #header-user-profile -->
@@ -97,7 +97,7 @@ include('../../inc/conexion.php');
 			
 				<ul id="mobile-menu-pro">
 	            <li class="current-menu-item">
-	              <a href="http://facite.uas.edu.mx/alumnos/administrador/creditos/">
+	              <a href="https://facite-alumnos.herokuapp.com/administrador/creditos/">
                   <span class="icon-Address-Book2"></span>
 	                    Módulo de Créditos
 	              </a>
@@ -119,7 +119,7 @@ include('../../inc/conexion.php');
 		<nav id="sidebar-nav"><!-- Add class="sticky-sidebar-js" for auto-height sidebar -->
             <ul id="vertical-sidebar-nav" class="sf-menu">
               <li class="normal-item-pro current-menu-item">
-                <a href="http://facite.uas.edu.mx/alumnos/administrador/creditos/">
+                <a href="https://facite-alumnos.herokuapp.com/administrador/creditos/">
                     <span class="icon-Address-Book2"></span>
                         Módulo de Créditos
                 </a>
