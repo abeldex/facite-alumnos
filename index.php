@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="es">
     <head>
+        <base href="https://facite-alumnos.herokuapp.com/">
         <meta charset="utf-8" />
         <title>Sistema Integral de Alumnos FACITE | Ingresar</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -123,7 +124,7 @@
                 {
                 $.ajax({
                         type: 'POST',
-                        url: 'http://facite.uas.edu.mx/alumnos/inc/login.php',
+                        url: 'https://facite-alumnos.herokuapp.com/inc/login.php',
                         data: {"username" : cuenta, "password": pass},
                         success: function(data){
                             if(data == 'exito'){ 
